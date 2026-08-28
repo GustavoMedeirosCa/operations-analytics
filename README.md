@@ -47,3 +47,7 @@ operations-analytics/
 │   └── 04_performance.sql # Lead time, OTD, and incident logs
 └── docs/
     └── business-insights.md # Findings and recommendations
+```
+
+## Data Architecture (ERD)
+![Entity Relationship Diagram](docs/erd_diagram.png)
